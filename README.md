@@ -1,9 +1,8 @@
-<h1 align="center">Hi I'm Ganesh Subedi</h1>
-<h3 align="center">A Graphic and Web Designer</h3>
+<h1 align="center">Hi I'm <br>
+  Ganesh Subedi</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshsubedi111&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshsubedi111" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshsubedi111" alt="ganeshsubedi111" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/ganeshsubedi111?tab=repositories](https://github.com/ganeshsubedi111?tab=repositories)
 
