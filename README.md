@@ -35,7 +35,7 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p> <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshsubedi111&show_icons=true&locale=en&layout=compact" alt="ganeshsubedi111" /></p>
-
+<br> <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshsubedi111&show_icons=true&locale=en" alt="ganeshsubedi111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshsubedi111&" alt="ganeshsubedi111" /></p>
